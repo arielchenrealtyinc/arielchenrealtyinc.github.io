@@ -15,6 +15,6 @@ her as a detail-oriented and customized-servicing agent.
 If you have any question about buying/selling/renting houses, getting a loan, etc.
 Please do not hesitate to contact her right away.
 
-![Post Card Front](/assets/img/post-card-front.jpg)
+![Post Card Front](/assets/img/post-card-front-small.jpg)
 
-![Post Card Back](/assets/img/post-card-back.jpg)
+![Post Card Back](/assets/img/post-card-back-small.jpg)
