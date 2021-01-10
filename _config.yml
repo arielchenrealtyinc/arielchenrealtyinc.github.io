@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Atega
+title: Ariel Chen Realty
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Atega - Creative Personal Blog Theme for Jekyll
+description: Ariel Chen Realty | Your Trusted Local Realtor and Loan agent in Bay Area. Proficient in both English and Mandarin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
@@ -11,19 +11,19 @@ blog-theme: light # By default, Atega theme uses a 'light' color scheme, to chan
 #-------------------------------
 # Author Settings
 author:
-  name: Leo Hawkins
-  image: '/images/01.jpg'
+  name: Ariel Chen
+  image: '/assets/images/ariel.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I'm <span class="hero__name">Leo Hawkins</span>.
-  hero__job: Designer, Illustrator
-  hero__description: I spend a lot of time creating cool things
-  hero__button__text: Read about my past
+  hero__title: Hi, I'm <span class="hero__name">Ariel Chen</span>.
+  hero__job: Sr. Realtor & Loan Agent
+  hero__description: Your Trusted Local Realtor and Loan agent in Bay Area.
+  hero__button__text: Read more about me
   hero__button__link: '/about'
-  hero__image: '/images/01.jpg'
+  hero__image: '/assets/images/ariel.jpg'
 
 
 #-------------------------------
@@ -59,7 +59,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -83,7 +83,7 @@ gallery:
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-137015374-1 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
