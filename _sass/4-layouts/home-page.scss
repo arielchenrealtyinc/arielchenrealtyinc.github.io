@@ -61,6 +61,10 @@
   color: $text-color-alt;
 }
 
+.article__excerpt.transaction {
+  margin-bottom: 10px;
+}
+
 .article__meta {
   display: flex;
   align-items: center;
@@ -80,7 +84,7 @@
 
   .article-tags__box {
     display: flex;
-    
+
     &::before {
       content: "/";
       display: inline-block;

@@ -1,0 +1,19 @@
+<div class="article col col-4 col-d-6 col-t-12">
+  <div class="article__inner">
+    <div class="image-wrap">
+      <a class="article__image" target="_blank"
+         href="{% if trans.url %}{{trans.url}}{% else %}https://www.google.com/maps/search/{{trans.addr}}{% endif %}">
+        <img class="lazy" data-src="{{site.baseurl}}{{trans.image}}" alt="{{trans.addr}}">
+      </a>
+    </div>
+    <div class="article__content">
+      <p class="article__excerpt transaction">
+        {{ trans.addr }} <br>
+        {% if trans.description %}
+          {{ trans.description }}<br>
+        {% endif%}
+        Prepresents {{ trans.represent }}
+      </p>
+    </div>
+  </div>
+</div>

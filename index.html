@@ -8,6 +8,13 @@ layout: default
   <div class="row">
     <div class="col col-12">
       <div class="contaniner__inner animate">
+        {% if site.data.transactions.size > 0 %}
+          <div class="row">
+            {% for trans in site.data.transactions %}
+              {% include transaction.html %}
+            {% endfor %}
+          </div>
+        {% endif %}
         <div class="row">
           {% if site.posts.size > 0 %}
             {% for post in paginator.posts %}

@@ -1,0 +1,11 @@
+- addr: "1326 Mayberry Ln, San Jose, CA 95131"
+  description: "5 beds 3 baths, $1,682,000"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/95131-1326-Mayberry-Ln.jpg"
+- addr: "1915 Dobbin Dr, San Jose, CA 95133"
+  description: "3 beds 3 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/95133-1915-Dobbin-Dr.jpeg"
+  url: "https://www.mlslistings.com/property/ml81815540/1915-dobbin-dr-san-jose-ca-95133/11190214"
