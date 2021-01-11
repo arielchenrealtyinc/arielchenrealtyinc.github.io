@@ -19,7 +19,7 @@ author:
 # Hero Settings
 hero:
   hero__title: Hi, I'm <span class="hero__name">Ariel Chen</span>.
-  hero__job: Sr. Realtor & Loan Agent
+  hero__job: Top Realtor & Loan Agent
   hero__description: Your Trusted Local Realtor and Loan agent in Bay Area.
   hero__button__text: Read more about me
   hero__button__link: '/about'
