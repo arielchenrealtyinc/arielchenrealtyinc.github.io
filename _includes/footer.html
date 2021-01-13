@@ -7,15 +7,17 @@
 
           <div class="footer__head">
             <div class="row">
+              {% include footer-widgets/widget-contact-me.html %}
               {% include footer-widgets/widget-recent-posts.html %}
-              {% include footer-widgets/widget-gallery.html %}
-              {% include footer-widgets/widget-subscribe.html %}
             </div>
           </div>
         </div>
 
         {% include social-link.html %}
-        <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
+        <div class="copyright">
+          {{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. <br>
+          All rights reserved for the content in this site.
+        </div>
       </div>
     </div>
   </div>

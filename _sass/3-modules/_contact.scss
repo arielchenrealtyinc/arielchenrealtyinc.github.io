@@ -36,3 +36,13 @@
     border: 1px solid $brand-color;
   }
 }
+
+.contact-item {
+  font-size: 16px;
+  font-weight: 500;
+
+  ion-icon {
+    vertical-align: middle;
+    margin-right: 4px;
+  }
+}
