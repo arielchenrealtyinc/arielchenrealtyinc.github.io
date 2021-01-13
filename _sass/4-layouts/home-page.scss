@@ -61,10 +61,6 @@
   color: $text-color-alt;
 }
 
-.article__excerpt.transaction {
-  margin-bottom: 10px;
-}
-
 .article__meta {
   display: flex;
   align-items: center;
@@ -123,4 +119,42 @@
       color: $text-color-alt;
     }
   }
+}
+
+.recent-transactions {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+
+  .transaction-container {
+    display: inline-block;
+    min-width: 320px;
+    vertical-align: top;
+
+    img {
+      border-radius: 4px;
+    }
+
+    .transaction-state {
+      background-color: #ff8f00;
+      border-radius: 4px;
+      color: white;
+      font-size: 10pt;
+      font-weight: bold;
+      left: 0;
+      margin: 4px;
+      padding: 0 4px;
+      position: absolute;
+      top: 0;
+    }
+
+    .transaction {
+      padding: 20px;
+
+      .article__excerpt {
+        margin-bottom: 10px;
+      }
+    }
+  }
+
 }

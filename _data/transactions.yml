@@ -1,10 +1,65 @@
 - addr: "1326 Mayberry Ln, San Jose, CA 95131"
-  description: "5 beds 3 baths, $1,682,000"
+  description: "5 beds 3 baths"
   state: sold
   represent: buyer
   image: "/assets/transactions-cover/95131-1326-Mayberry-Ln.jpg"
+
 - addr: "1915 Dobbin Dr, San Jose, CA 95133"
   description: "3 beds 3 baths"
   state: sold
   represent: buyer
   image: "/assets/transactions-cover/95133-1915-Dobbin-Dr.jpeg"
+
+- addr: "1315 Avoset Ter, Sunnyvale, CA 94087"
+  description: "4 beds 2.5 baths"
+  state: sold
+  represent: buyer
+
+- addr: "3334 Todd Way, San Jose, CA 95124"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+
+- addr: "2208 Casa Mia Dr, San Jose, CA 95124"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+
+- addr: "1244 Whitehall Ave, San Jose, CA 95128"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+
+- addr: "2226 Casa Mia Dr, San Jose, CA 95124"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+
+- addr: "2811 Fargher Dr, Santa Clara, CA 95051"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: buyer
+
+- addr: "670 Montara Ter, Sunnyvale, CA 94085"
+  description: "3 beds 3.5 baths"
+  state: sold
+  represent: buyer
+
+- addr: "140 Positano Cir, Redwood Shores, CA 94065"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: buyer
+
+- addr: "3768 Capitol Ave 316b, Fremont, CA 94538"
+  state: sold
+  represent: buyer
+
+- addr: "584 Monterey Ter, Sunnyvale, CA 94089"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: seller
+
+- addr: "571 Kiholo Ter, Sunnyvale, CA 94089"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: seller

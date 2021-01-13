@@ -9,7 +9,8 @@ layout: default
     <div class="col col-12">
       <div class="contaniner__inner animate">
         {% if site.data.transactions.size > 0 %}
-          <div class="row">
+          <h3>Recent Transactions</h3>
+          <div class="recent-transactions">
             {% for trans in site.data.transactions %}
               {% include transaction.html %}
             {% endfor %}

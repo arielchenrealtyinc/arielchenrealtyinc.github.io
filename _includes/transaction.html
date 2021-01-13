@@ -1,13 +1,19 @@
-<div class="article col col-4 col-d-6 col-t-12">
+<div class="transaction-container article">
   <div class="article__inner">
     <div class="image-wrap">
       <a class="article__image" target="_blank"
          href="{% if trans.url %}{{trans.url}}{% else %}https://www.google.com/maps/search/{{trans.addr}}{% endif %}">
-        <img class="lazy" data-src="{{site.baseurl}}{{trans.image}}" alt="{{trans.addr}}">
+         <img class="lazy" data-src="{% if trans.image %}
+                                       {{site.baseurl}}{{trans.image}}
+                                     {% else %}
+                                       {{site.baseurl}}/assets/transactions-cover/{{trans.addr}}.jpeg
+                                     {% endif %}"
+              alt="{{trans.addr}}">
+         <div class="transaction-state {{trans.state}}">{{trans.state | upcase}}</div>
       </a>
     </div>
-    <div class="article__content">
-      <p class="article__excerpt transaction">
+    <div class="article__content transaction">
+      <p class="article__excerpt ">
         {{ trans.addr }} <br>
         {% if trans.description %}
           {{ trans.description }}<br>
