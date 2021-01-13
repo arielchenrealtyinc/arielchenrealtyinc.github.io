@@ -40,9 +40,13 @@
 .contact-item {
   font-size: 16px;
   font-weight: 500;
+  vertical-align: top;
+
+  ion-icon, .iconify {
+    margin-right: 4px;
+  }
 
   ion-icon {
     vertical-align: middle;
-    margin-right: 4px;
   }
 }
