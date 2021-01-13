@@ -1,3 +1,15 @@
+- addr: "Catalina Homes, Santa Clara, CA 95050"
+  description: "3 beds 3.5 baths"
+  state: pending
+  represent: buyer
+  image: "/assets/transactions-cover/catalina-homes.jpg"
+
+- addr: "1354 Dale Ave #8, Mountain View, CA 94040"
+  description: "2 beds 2.5 baths"
+  state: pending
+  represent: buyer
+  image: "/assets/transactions-cover/1354 Dale Ave-8.jpg"
+
 - addr: "1326 Mayberry Ln, San Jose, CA 95131"
   description: "5 beds 3 baths"
   state: sold
