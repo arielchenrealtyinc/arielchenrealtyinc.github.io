@@ -2,7 +2,7 @@
 # General Site Settings
 title: Ariel Chen Realty
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Ariel Chen Realty | Your Trusted Local Realtor and Loan agent in Bay Area. Proficient in both English and Mandarin.
+description: Ariel Chen Realty | Your Trusted Local Realtor and Loan agent in Bay Area. Proficient in both English and Mandarin. Help you Buying, Selling and Financing Homes!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
