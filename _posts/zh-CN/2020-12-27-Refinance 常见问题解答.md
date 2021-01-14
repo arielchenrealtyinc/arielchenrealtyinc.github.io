@@ -6,6 +6,6 @@ tags:   Loan Refinance
 locale: zh-CN
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z7WrKt6q2qI" frameborder="0" 
+<iframe src="https://www.youtube.com/embed/z7WrKt6q2qI" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
