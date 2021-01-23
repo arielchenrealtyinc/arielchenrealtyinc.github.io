@@ -147,7 +147,7 @@
       position: absolute;
       top: 0;
 
-      &.pending {
+      &.pending, &.coming.soon {
         background-color: #f44336;
       }
     }
