@@ -10,6 +10,12 @@
   represent: seller
   image: "/assets/transactions-cover/coming-soon.jpg"
 
+- addr: "3828 Enrichment Ter #1002<br>FREMONT, CA 94538"
+  description: "4 beds 3.5 baths"
+  state: pending
+  represent: buyer
+  image: "/assets/transactions-cover/3828 Enrichment Ter-94538.jpg"
+
 - addr: "Catalina Homes, Santa Clara, CA 95050"
   description: "3 beds 3.5 baths"
   state: pending
