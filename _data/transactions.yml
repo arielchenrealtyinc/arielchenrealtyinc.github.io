@@ -1,3 +1,9 @@
+- addr: "4840 Vía De Caballe, San Jose, CA 95118"
+  description: "3 beds 2 baths"
+  state: coming soon
+  represent: seller
+  image: "/assets/transactions-cover/coming-soon.jpg"
+
 - addr: "36045 Haley St, Newark, CA 94560"
   description: "3 beds 2 baths"
   state: coming soon
@@ -24,7 +30,7 @@
 
 - addr: "1354 Dale Ave #8, Mountain View, CA 94040"
   description: "2 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: buyer
   image: "/assets/transactions-cover/1354 Dale Ave-8.jpg"
 
