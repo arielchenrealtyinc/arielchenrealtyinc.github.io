@@ -10,10 +10,20 @@ layout: default
       <div class="contaniner__inner animate">
         {% if site.data.transactions.size > 0 %}
           <h3>Recent Transactions</h3>
-          {% if site.data.transactions[0].state != 'sold' %}
+          {% assign states = site.data.transactions | map: 'state' %}
+          {% if states contains 'listing' %}
             <div class="recent-transactions">
               {% for trans in site.data.transactions %}
-                {% if trans.state != 'sold' %}
+                {% if trans.state == 'listing' %}
+                  {% include transaction.html %}
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+          {% if states contains 'pending' or states contains 'coming soon' %}
+            <div class="recent-transactions">
+              {% for trans in site.data.transactions %}
+                {% if trans.state == 'pending' or trans.state == 'coming soon' %}
                   {% include transaction.html %}
                 {% endif %}
               {% endfor %}

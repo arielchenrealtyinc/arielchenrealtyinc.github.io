@@ -136,7 +136,7 @@
     }
 
     .transaction-state {
-      background-color: #ff8f00;
+      background-color: #f44336;
       border-radius: 4px;
       color: white;
       font-size: 10pt;
@@ -147,8 +147,8 @@
       position: absolute;
       top: 0;
 
-      &.pending, &.coming.soon {
-        background-color: #f44336;
+      &.sold {
+        background-color: #ff8f00;
       }
     }
 
