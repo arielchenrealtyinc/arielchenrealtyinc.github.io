@@ -10,9 +10,20 @@ layout: default
       <div class="contaniner__inner animate">
         {% if site.data.transactions.size > 0 %}
           <h3>Recent Transactions</h3>
+          {% if site.data.transactions[0].state != 'sold' %}
+            <div class="recent-transactions">
+              {% for trans in site.data.transactions %}
+                {% if trans.state != 'sold' %}
+                  {% include transaction.html %}
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
           <div class="recent-transactions">
             {% for trans in site.data.transactions %}
-              {% include transaction.html %}
+              {% if trans.state == 'sold' %}
+                {% include transaction.html %}
+              {% endif %}
             {% endfor %}
           </div>
         {% endif %}
