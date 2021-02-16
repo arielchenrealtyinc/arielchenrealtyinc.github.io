@@ -147,6 +147,10 @@
       position: absolute;
       top: 0;
 
+      &.listing {
+        background-color: #e96727;
+      }
+
       &.sold {
         background-color: #ff8f00;
       }
