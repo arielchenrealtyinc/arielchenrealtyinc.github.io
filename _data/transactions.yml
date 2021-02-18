@@ -1,19 +1,19 @@
+- addr: "2701 Hillside Dr, Burlingame, CA 94010"
+  description: "2 beds 1 baths"
+  state: coming soon
+  represent: seller
+  image: "/assets/transactions-cover/coming-soon.jpg"
+
 - addr: "36045 Haley St, Newark, CA 94560"
   description: "3 beds 2 baths"
-  state: listing
+  state: pending
   represent: seller
   image: "/assets/transactions-cover/36045 Haley St-94560.jpg"
   url: https://www.redfin.com/CA/Newark/36045-Haley-St-94560/home/1624227
 
 - addr: "4840 Vía De Caballe, San Jose, CA 95118"
   description: "3 beds 2 baths"
-  state: coming soon
-  represent: seller
-  image: "/assets/transactions-cover/coming-soon.jpg"
-
-- addr: "2701 Hillside Dr, Burlingame, CA 94010"
-  description: "2 beds 1 baths"
-  state: coming soon
+  state: pending
   represent: seller
   image: "/assets/transactions-cover/coming-soon.jpg"
 
