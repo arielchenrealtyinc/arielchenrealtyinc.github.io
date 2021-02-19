@@ -13,7 +13,7 @@
 
 - addr: "4840 Vía De Caballe, San Jose, CA 95118"
   description: "3 beds 2 baths"
-  state: pending
+  state: listing
   represent: seller
   image: "/assets/transactions-cover/4840 Via De Caballe-95118.jpg"
 
