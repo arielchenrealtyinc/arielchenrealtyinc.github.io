@@ -1,8 +1,8 @@
 - addr: "2701 Hillside Dr, Burlingame, CA 94010"
   description: "2 beds 1 baths"
-  state: coming soon
+  state: listing
   represent: seller
-  image: "/assets/transactions-cover/coming-soon.jpg"
+  image: "/assets/transactions-cover/2701 Hillside Dr-94010.jpg"
 
 - addr: "36045 Haley St, Newark, CA 94560"
   description: "3 beds 2 baths"
