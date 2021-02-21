@@ -13,10 +13,9 @@
 
 - addr: "4840 Vía De Caballe, San Jose, CA 95118"
   description: "3 beds 2 baths"
-  state: listing
+  state: pending
   represent: seller
   image: "/assets/transactions-cover/4840 Via De Caballe-95118.jpg"
-  url: https://www.redfin.com/CA/San-Jose/4840-Via-De-Caballe-95118/home/926206
 
 - addr: "3828 Enrichment Ter #1002<br>FREMONT, CA 94538"
   description: "4 beds 3.5 baths"
