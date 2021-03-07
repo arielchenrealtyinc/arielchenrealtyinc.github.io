@@ -1,6 +1,6 @@
 - addr: "2701 Hillside Dr, Burlingame, CA 94010"
   description: "2 beds 1 baths"
-  state: listing
+  state: pending
   represent: seller
   image: "/assets/transactions-cover/2701 Hillside Dr-94010.jpg"
   url: https://www.redfin.com/CA/Burlingame/2701-Hillside-Dr-94010/home/1814707
