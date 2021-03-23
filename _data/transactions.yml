@@ -7,7 +7,7 @@
 
 - addr: "36045 Haley St, Newark, CA 94560"
   description: "3 beds 2 baths"
-  state: pending
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/36045 Haley St-94560.jpg"
 
@@ -25,7 +25,7 @@
 
 - addr: "Catalina Homes, Santa Clara, CA 95050"
   description: "3 beds 3.5 baths"
-  state: pending
+  state: sold
   represent: buyer
   image: "/assets/transactions-cover/catalina-homes.jpg"
 
