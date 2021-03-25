@@ -1,9 +1,14 @@
+- addr: "865 Carlisle Way #124, Sunnyvale, CA 94087"
+  description: "2 beds 2.5 baths"
+  state: pending
+  represent: buyer
+  image: "/assets/transactions-cover/865 Carlisle Way_124-94085.jpeg"
+
 - addr: "2701 Hillside Dr, Burlingame, CA 94010"
   description: "2 beds 1 baths"
   state: pending
   represent: seller
   image: "/assets/transactions-cover/2701 Hillside Dr-94010.jpg"
-  url: https://www.redfin.com/CA/Burlingame/2701-Hillside-Dr-94010/home/1814707
 
 - addr: "36045 Haley St, Newark, CA 94560"
   description: "3 beds 2 baths"
