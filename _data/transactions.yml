@@ -1,3 +1,10 @@
+- addr: "1473 Cherry Cir, Milpitas 95035"
+  description: "1 beds 1.5 baths"
+  state: listing
+  represent: seller
+  image: "/assets/transactions-cover/1473-Cherry-Cir-95035.jpeg"
+  url: "https://www.redfin.com/CA/Milpitas/1473-Cherry-Cir-95035/home/167193920"
+
 - addr: "2228 Beech Circle, San Jose 95131"
   description: "3 beds 3 baths"
   state: pending
