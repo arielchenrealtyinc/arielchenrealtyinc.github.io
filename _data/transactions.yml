@@ -1,9 +1,21 @@
 - addr: "1473 Cherry Cir, Milpitas 95035"
   description: "1 beds 1.5 baths"
-  state: listing
+  state: pending
   represent: seller
   image: "/assets/transactions-cover/1473-Cherry-Cir-95035.jpeg"
   url: "https://www.redfin.com/CA/Milpitas/1473-Cherry-Cir-95035/home/167193920"
+
+- addr: "955 La Mesa Ter Unit D, Sunnyvale 94086"
+  description: "2 beds 2.5 baths"
+  state: pending
+  represent: buyer
+  image: "/assets/transactions-cover/955 La Mesa-D-94086.jpeg"
+
+- addr: "1156 Bunce Ct, San Jose 95132"
+  description: "4 beds 2.5 baths"
+  state: pending
+  represent: buyer
+  image: "/assets/transactions-cover/1156 Bunce Ct-95132.jpeg"
 
 - addr: "2228 Beech Circle, San Jose 95131"
   description: "3 beds 3 baths"
