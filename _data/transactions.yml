@@ -15,7 +15,7 @@
   description: "3 beds 2 baths"
   state: pending
   represent: buyer
-  image: "/assets/transactions-cover/coming-soon.jpg"
+  image: "/assets/transactions-cover/just-house.png"
 
 - addr: "6949 Chantel Ct, San Jose 95129"
   description: "2 beds 2.5 baths"
