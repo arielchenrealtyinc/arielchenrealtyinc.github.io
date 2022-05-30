@@ -52,6 +52,12 @@
   represent: seller
   image: "/assets/transactions-cover/810 Catkin Ct-95128.jpg"
 
+- addr: "2818 Paseo Ln, San Jose 95124"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/2818 Paseo Ln-95124.jpeg"
+
 - addr: "1871 Saint Lawrence Dr, Santa Clara 95051"
   description: "3 beds 3 baths"
   state: sold
