@@ -28,7 +28,7 @@
   description: "4 beds 2.5 baths"
   state: pending
   represent: seller
-  image: "/assets/transactions-cover/3662 Greymont Dr-95136"
+  image: "/assets/transactions-cover/3662 Greymont Dr-95136.jpeg"
 
 - addr: "1033 Crestview Dr #104, Mountain View 94040"
   description: "2 beds 2 baths"
@@ -82,7 +82,7 @@
   description: "2 beds 2 baths"
   state: sold
   represent: seller
-  image: "/assets/transactions-cover/810 Catkin Ct-95128.jpg"
+  image: "/assets/transactions-cover/810 Catkin Ct-95128.jpeg"
 
 - addr: "2818 Paseo Ln, San Jose 95124"
   description: "3 beds 2.5 baths"
