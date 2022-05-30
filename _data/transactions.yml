@@ -5,7 +5,6 @@
   represent: seller
   image: "/assets/transactions-cover/1033 Crestview Dr-104-94040.jpeg"
 
-
 - addr: "3472 Bonita Ave, Santa Clara 95051"
   description: "3 beds 2 baths"
   state: sold
