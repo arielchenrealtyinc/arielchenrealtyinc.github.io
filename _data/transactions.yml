@@ -13,21 +13,20 @@
 
 - addr: "6625 Clifford Dr, Cupertino 95014"
   description: "3 beds 2 baths"
-  state: pending
+  state: sold
   represent: buyer
   image: "/assets/transactions-cover/just-house.png"
 
 - addr: "6949 Chantel Ct, San Jose 95129"
   description: "2 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: seller
-  image: "/assets/transactions-cover/coming-soon.jpg"
-  url: https://www.redfin.com/CA/San-Jose/6949-Chantel-Ct-95129/home/792826
+  image: "/assets/transactions-cover/6949 Chantel Cr-95129.jpeg"
 
 - addr: "1933 Primo Ct, San Jose 95131"
   description: "3 beds 2 baths"
   state: sold
-  represent: seller/buyer
+  represent: buyer
   image: "/assets/transactions-cover/1933 Primo Ct-95131.jpeg"
 
 - addr: "916 Quercus Ct, Sunnyvale 94086"
