@@ -1,14 +1,16 @@
 - addr: "4668 Wilcox Ave, Santa Clara 95054"
   description: "3 beds 2 baths"
-  state: active
+  state: listing
   represent: seller
   image: "/assets/transactions-cover/4668 Wilcox Ave-95054.jpeg"
+  url: https://www.redfin.com/CA/Santa-Clara/4668-Wilcox-Ave-95054/home/1461925
 
 - addr: "2637 Landslide Ct, Santa Clara 95051"
   description: "4 beds 2 baths"
-  state: active
+  state: listing
   represent: seller
   image: "/assets/transactions-cover/2637 Landslide Ct-95051.jpeg"
+  url: https://www.redfin.com/CA/Santa-Clara/2637-Landslide-Ct-95051/home/1115145
 
 - addr: "6973 Chantel Ct, San Jose 95129"
   description: "2 beds 2.5 baths"
