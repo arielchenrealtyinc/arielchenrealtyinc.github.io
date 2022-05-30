@@ -1,15 +1,81 @@
+
+- addr: "1033 Crestview Dr #104, Mountain View 94040"
+  description: "2 beds 2 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/1033 Crestview Dr-104-94040.jpeg"
+
+- addr: "3472 Bonita Ave, Santa Clara 95051"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/3472 Bonita Ave-95051.jpeg"
+
+- addr: "913 Rain Dance, Milpitas 95035"
+  description: "2 beds 2.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/913 Rain Dance-95035.jpeg"
+
+- addr: "185 Jeffrey Ter, Sunnyvale 94086"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/185 Jeffrey Ter-94086.jpeg"
+
+- addr: "2029 Brown Ct, Santa Clara 95051"
+  description: "5 beds 4 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/2029 Brown Ct-95051.jpeg"
+
+- addr: "2014 Mahuron Cir, San Jose 95133"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/2014 Mahuron Cir-95133.jpeg"
+
+- addr: "933 Arlington Ct, Sunnyvale 94087"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/933 Arlington Ct-94087.jpeg"
+
+- addr: "406 Briarfield Way, Belmont 94002"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/406 Briarfield Way-94002.jpeg"
+
 - addr: "810 Catkin Ct, San Jose 95128"
   description: "2 beds 2 baths"
-  state: coming soon
+  state: sold
   represent: seller
-  image: "/assets/transactions-cover/coming-soon.jpg"
+  image: "/assets/transactions-cover/810 Catkin Ct-95128.jpg"
+
+- addr: "2818 Paseo Ln, San Jose 95124"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/2818 Paseo Ln-95124.jpeg";
+
+- addr: "1871 Saint Lawrence Dr, Santa Clara 95051"
+  description: "3 beds 3 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/1871 Saint Lawrence Dr-95051.jpeg"
 
 - addr: "331 Expedition Ln, Milpitas 95035"
   description: "2 beds 3 baths"
-  state: listing
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/331 Expedition Ln-95035.jpeg"
-  url: https://www.redfin.com/CA/Milpitas/331-Expedition-Ln-95035/home/143041903
+
+- addr: "1631 Sweetbriar Dr, San Jose 95125"
+  description: "5 beds 3 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/1631 Sweetbriar Dr-95125.jpeg"
 
 - addr: "6625 Clifford Dr, Cupertino 95014"
   description: "3 beds 2 baths"
