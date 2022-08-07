@@ -1,32 +1,54 @@
+- addr: "6993 Chantel Ct, San Jose 95129"
+  description: "2 beds 2.5 baths"
+  state: listing
+  represent: seller
+  image: "/assets/transactions-cover/6993 Chantel Ct-95129.jpeg"
+
+- addr: "1400 Bowe Ave #1405, Santa Clara 95051"
+  description: "2 beds 2 baths"
+  state: pending
+  represent: seller
+  image: "/assets/transactions-cover/1400 Bowe Ave-1405-95051.jpeg"
+
 - addr: "4668 Wilcox Ave, Santa Clara 95054"
   description: "3 beds 2 baths"
-  state: listing
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/4668 Wilcox Ave-95054.jpeg"
-  url: https://www.redfin.com/CA/Santa-Clara/4668-Wilcox-Ave-95054/home/1461925
 
-- addr: "2637 Landslide Ct, Santa Clara 95051"
+- addr: "1749 Westhaven Dr, San Jose 95132"
   description: "4 beds 2 baths"
-  state: listing
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/1749 Westhaven Dr-95132.jpeg"
+
+- addr: "128 Hornbeam Ter, Sunnyvale 94086"
+  description: "3 beds 3.5 baths"
+  state: sold
   represent: seller
-  image: "/assets/transactions-cover/2637 Landslide Ct-95051.jpeg"
-  url: https://www.redfin.com/CA/Santa-Clara/2637-Landslide-Ct-95051/home/1115145
+  image: "/assets/transactions-cover/128 Hornbeam Ter-94086.jpeg"
+
+- addr: "35201 Cornish Dr, Fremont 94536"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/35201 Cornish Dr-94536.jpeg"
 
 - addr: "6973 Chantel Ct, San Jose 95129"
   description: "2 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/6973 Chantel Ct-95129.jpeg"
 
 - addr: "3537 Druffel Pl #1, Santa Clara 95051"
   description: "2 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/3537 Druffel Pl-1-95051.jpeg"
 
 - addr: "3662 Greymont Dr, San Jose 95136"
   description: "4 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/3662 Greymont Dr-95136.jpeg"
 
