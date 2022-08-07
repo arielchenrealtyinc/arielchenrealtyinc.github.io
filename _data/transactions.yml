@@ -3,6 +3,7 @@
   state: listing
   represent: seller
   image: "/assets/transactions-cover/6993 Chantel Ct-95129.jpeg"
+  url: https://www.redfin.com/CA/San-Jose/6993-Chantel-Ct-95129/home/793328
 
 - addr: "1400 Bowe Ave #1405, Santa Clara 95051"
   description: "2 beds 2 baths"
