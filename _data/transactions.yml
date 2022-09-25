@@ -1,19 +1,32 @@
+- addr: "231 Saratoga Ct, Santa Clara 95050"
+  description: "2 beds 2.5 baths"
+  state: pending
+  represent: seller
+  image: "/assets/transactions-cover/231 Saratoga Ct-95050.jpeg"
+  url: https://www.redfin.com/CA/Santa-Clara/231-Saratoga-Ct-95050/home/750637
+
 - addr: "6993 Chantel Ct, San Jose 95129"
   description: "2 beds 2.5 baths"
-  state: listing
+  state: pending
   represent: seller
   image: "/assets/transactions-cover/6993 Chantel Ct-95129.jpeg"
   url: https://www.redfin.com/CA/San-Jose/6993-Chantel-Ct-95129/home/793328
 
+- addr: "2891 Benjamin Ave, San Jose 95124"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/2891 Benjamin Ave-95124.jpeg"
+
 - addr: "21618 Flintshire St, Cupertino 95014"
   description: "4 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: buyer
   image: "/assets/transactions-cover/21618 Flintshire St-95014.jpeg"
 
 - addr: "1400 Bowe Ave #1405, Santa Clara 95051"
   description: "2 beds 2 baths"
-  state: pending
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/1400 Bowe Ave-1405-95051.jpeg"
 
