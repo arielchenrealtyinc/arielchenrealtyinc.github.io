@@ -22,7 +22,7 @@
   represent: buyer
   image: "/assets/transactions-cover/4136 Carola Ave-95130.jpeg"
 
-  - addr: "478 S Taaffe St, Sunnyvale 94086"
+- addr: "478 S Taaffe St, Sunnyvale 94086"
   description: "3 beds 3 baths"
   state: sold
   represent: seller
