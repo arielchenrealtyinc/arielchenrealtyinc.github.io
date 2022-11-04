@@ -1,16 +1,38 @@
-- addr: "231 Saratoga Ct, Santa Clara 95050"
-  description: "2 beds 2.5 baths"
-  state: pending
-  represent: seller
-  image: "/assets/transactions-cover/231 Saratoga Ct-95050.jpeg"
-  url: https://www.redfin.com/CA/Santa-Clara/231-Saratoga-Ct-95050/home/750637
-
 - addr: "6993 Chantel Ct, San Jose 95129"
   description: "2 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/6993 Chantel Ct-95129.jpeg"
-  url: https://www.redfin.com/CA/San-Jose/6993-Chantel-Ct-95129/home/793328
+
+- addr: "231 Saratoga Ct, Santa Clara 95050"
+  description: "2 beds 2.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/231 Saratoga Ct-95050.jpeg"
+
+- addr: "1529 Klamath Dr, Sunnyvale 94087"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/1529 Klamath Dr-94087.jpeg"
+
+- addr: "4136 Carola Ave, San Jose 95130"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/4136 Carola Ave-95130.jpeg"
+
+  - addr: "478 S Taaffe St, Sunnyvale 94086"
+  description: "3 beds 3 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/478 S Taaffe St-94086.jpeg"
+
+- addr: "4631 Mia Cir, San Jose 95136"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/4631 Mia Cir-95136.jpeg"
 
 - addr: "2891 Benjamin Ave, San Jose 95124"
   description: "3 beds 2 baths"
