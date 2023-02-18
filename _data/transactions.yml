@@ -1,3 +1,16 @@
+- addr: "7070 Rainbow Dr #5, San Jose 95129"
+  description: "2 beds 1.5 baths"
+  state: pending
+  represent: seller
+  image: "/assets/transactions-cover/7070 Rainbow Dr_5_95129.jpg"
+  url: https://www.redfin.com/CA/San-Jose/7070-Rainbow-Dr-95129/unit-5/home/792524
+
+- addr: "2079 Brown Ave, Santa Clara 95051"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/2079 Brown Ave-95051.jpg"
+
 - addr: "6993 Chantel Ct, San Jose 95129"
   description: "2 beds 2.5 baths"
   state: sold
