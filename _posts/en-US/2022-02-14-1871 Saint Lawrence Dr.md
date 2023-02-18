@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  1871 Saint Lawrence Dr, Santa Clara 95051
+title:  1871 Saint Lawrence Dr<br>Santa Clara 95051
 date:   2022-02-14 08:00:00 -0700
 tags:   Ariel Listings
 locale: en-US
