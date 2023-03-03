@@ -37,7 +37,7 @@ mailchimp__button__text: Subscribe # Add your button text
 #-------------------------------
 # Contact Settings
 contact:
-  formspree_id: xwkjbnwq # formspress endpoint id
+  formspree_id: xayzjdlk # formspress endpoint id
 
 # NOTE
 # Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
