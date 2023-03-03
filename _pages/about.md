@@ -30,3 +30,31 @@ She consistently puts her clients on her top priority. She always think it as he
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 -->
+
+<br>
+
+# Contact Ariel
+
+{% if site.contact.formspree_id %}
+<div class="form-box">
+  <div class="contact-head">
+  </div>
+  <form class="form" action="https://formspree.io/f/{{site.contact.formspree_id}}" method="POST">
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message..." required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button button--rounded" type="submit">Send</button>
+    </div>
+  </form>
+</div>
+{% endif %}
