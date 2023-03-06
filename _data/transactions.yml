@@ -1,9 +1,8 @@
 - addr: "7070 Rainbow Dr #5, San Jose 95129"
   description: "2 beds 1.5 baths"
-  state: pending
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/7070 Rainbow Dr_5_95129.jpg"
-  url: https://www.redfin.com/CA/San-Jose/7070-Rainbow-Dr-95129/unit-5/home/792524
 
 - addr: "6050 Charlotte Dr, San Jose 95123"
   description: "3 beds 2.5 baths"
@@ -13,7 +12,7 @@
 
 - addr: "101 Calle El Padre, Los Gatos 95032"
   description: "4 beds 3 baths"
-  state: pending
+  state: sold
   represent: buyer
   image: "/assets/transactions-cover/101 Calle El Padre-95032.jpg"
 
