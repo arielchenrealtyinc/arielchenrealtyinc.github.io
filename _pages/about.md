@@ -15,6 +15,8 @@ She consistently puts her clients on her top priority. She always think it as he
 
 <iframe src="https://www.youtube.com/embed/UsBAmZY8V9k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
+
 # Contact Ariel
 
 {% if site.contact.formspree_id %}
