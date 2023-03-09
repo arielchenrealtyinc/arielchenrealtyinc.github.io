@@ -11,12 +11,6 @@ Ariel is a top real estate agent in the San Francisco Bay Area.
 She believes that buying/selling a home is one of the biggest decisions for families.
 She consistently puts her clients on her top priority. She always think it as her greatest accomplishment to use her excellent negotiation ability and professional house market knowledge to gain the best result for her clients. Her clients all speak highly of her work and appreciate her as a detail-oriented and customized-servicing agent. If you have any question about buying/selling/renting houses, getting a loan, etc. Please do not hesitate to give her a call right away.
 
-# Ariel's Story
-
-<iframe src="https://www.youtube.com/embed/UsBAmZY8V9k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
 # Contact Ariel
 
 {% if site.contact.formspree_id %}
@@ -41,3 +35,7 @@ She consistently puts her clients on her top priority. She always think it as he
   </form>
 </div>
 {% endif %}
+
+# Ariel's Story
+
+<iframe src="https://www.youtube.com/embed/UsBAmZY8V9k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
