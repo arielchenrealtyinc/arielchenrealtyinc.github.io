@@ -1,3 +1,9 @@
+- addr: "7517 Donegal Dr, Cupertino 95014"
+  description: "3 beds 2 baths"
+  state: pending
+  represent: buyer
+  image: "/assets/transactions-cover/7517 Donegal Dr-95014.webp"
+
 - addr: "7070 Rainbow Dr #5, San Jose 95129"
   description: "2 beds 1.5 baths"
   state: sold
