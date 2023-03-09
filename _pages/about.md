@@ -15,30 +15,13 @@ She consistently puts her clients on her top priority. She always think it as he
 
 <iframe src="https://www.youtube.com/embed/UsBAmZY8V9k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--
-![Graffiti]({{site.baseurl}}/images/30.jpg)
-*Photo by [Lucas Lenzi](https://unsplash.com/@lucaslenzi) on Unsplash*
--->
-
-<!--
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/33.jpg">
-    <img src="/images/32.jpg">
-    <img src="/images/31.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
--->
-
 <br>
 
 # Contact Ariel
 
 {% if site.contact.formspree_id %}
 <div class="form-box">
-  <div class="contact-head">
-  </div>
+  <div class="contact-head"></div>
   <form class="form" action="https://formspree.io/f/{{site.contact.formspree_id}}" method="POST">
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
