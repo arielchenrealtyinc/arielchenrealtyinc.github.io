@@ -12,7 +12,7 @@
 
 - addr: "6050 Charlotte Dr, San Jose 95123"
   description: "3 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: buyer
   image: "/assets/transactions-cover/6050 Charlotte Dr-95123.jpg"
 
