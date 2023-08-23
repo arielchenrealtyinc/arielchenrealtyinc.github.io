@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Install Ruby 2.7
+1. Install Ruby 2.7 (use `rbenv` to install)
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/)
 
    ```
