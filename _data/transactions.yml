@@ -1,3 +1,39 @@
+- addr: "586 Monterey Ter, Sunnyvale 94089"
+  description: "2 beds 2.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/586 Monterey Ter-94089.jpg"
+
+- addr: "7110 Rainbow Dr #9, San Jose 95129"
+  description: "2 beds 1 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/7110 Rainbow Dr_9-95129.jpg"
+
+- addr: "1028 Edmonds Ct, Sunnyvale 94087"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/1028 Edmonds Ct-94087.jpeg"
+
+- addr: "364 N Murphy Ave, Sunnyvale 94085"
+  description: "4 beds 3 baths"
+  state: seller
+  represent: buyer
+  image: "/assets/transactions-cover/364 N Murphy Ave-94085.jpeg"
+
+- addr: "3366 Forbes Ave, Santa Clara 95051"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/3366 Forbes Ave-95051.jpeg"
+
+- addr: "3060 Machado Ave, Santa Clara 95051"
+  description: "3 beds 1 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/3060 Machado Ave-95051.jpeg"
+
 - addr: "7517 Donegal Dr, Cupertino 95014"
   description: "3 beds 2 baths"
   state: sold
