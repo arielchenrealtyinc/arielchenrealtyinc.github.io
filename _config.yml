@@ -83,8 +83,8 @@ gallery:
 
 
 #-------------------------------
-# Google Analytics
-google-analytics: UA-137015374-1 # Add your identifier. For example UA-99631805-1.
+# Google Analytics (GA4)
+google-analytics: G-NCSMV98BX8 # Add your GA4 identifier. For example G-NCSMV98BX8.
 
 
 #-------------------------------
