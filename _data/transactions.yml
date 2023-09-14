@@ -1,3 +1,10 @@
+- addr: "38915 Sea Grass Pl, Newwark 94560"
+  description: "3 beds 3.5 baths"
+  state: listing
+  represent: seller
+  image: "/assets/transactions-cover/38915 Sea Grass Pl-94560.jpg"
+  url: https://www.redfin.com/CA/Newark/38915-Sea-Grass-Pl-94560/home/112885664
+
 - addr: "586 Monterey Ter, Sunnyvale 94089"
   description: "2 beds 2.5 baths"
   state: sold
