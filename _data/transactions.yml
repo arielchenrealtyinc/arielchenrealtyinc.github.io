@@ -5,6 +5,12 @@
   image: "/assets/transactions-cover/38915 Sea Grass Pl-94560.jpg"
   url: https://www.redfin.com/CA/Newark/38915-Sea-Grass-Pl-94560/home/112885664
 
+- addr: "40942 Camero Pl, Fremont 94539"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/40942 Camero Pl-94539.jpg"
+
 - addr: "586 Monterey Ter, Sunnyvale 94089"
   description: "2 beds 2.5 baths"
   state: sold
