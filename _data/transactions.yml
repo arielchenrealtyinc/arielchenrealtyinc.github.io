@@ -1,9 +1,53 @@
+- addr: "255 S Rengstorff Avenue #45, Mountain View 94040"
+  description: "2 beds 3 baths"
+  state: active
+  represent: seller
+  image: "/assets/transactions-cover/255 S Rengstorff Avenue-45-94040.jpg"
+  url: https://www.redfin.com/CA/Mountain-View/255-S-Rengstorff-Ave-94040/unit-45/home/616926
+
+- addr: "700 Baltic Circle #734, Redwood City 94065"
+  description: "2 beds 3 baths"
+  state: active
+  represent: seller
+  image: "/assets/transactions-cover/700 Baltic Circle-734-94065.jpg"
+  url: https://www.redfin.com/CA/Redwood-City/700-Baltic-Cir-94065/unit-734/home/2054659
+
+- addr: "641 E Evelyn Avenue, Sunnyvale 94086"
+  description: "3 beds 4 baths"
+  state: pending
+  represent: seller
+  image: "/assets/transactions-cover/641 E Evelyn Avenue-94086.jpg"
+  url: https://www.redfin.com/CA/Sunnyvale/641-E-Evelyn-Ave-94086/home/172930347
+
+- addr: "2597 Ohlone Drive, San Jose 95132"
+  description: "5 beds 3 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/2597 Ohlone Drive-95132.jpg"
+
+- addr: "896 PERSIMMON Avenue, Sunnyvale 94087"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/896 PERSIMMON Avenue-94087.jpg"
+
+- addr: "19247 Harleigh Drive, Saratoga 95070"
+  description: "5 beds 4 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/19247 Harleigh Drive-95070.jpg"
+
+- addr: "832 Azure Street, Sunnyvale 94087"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/832 Azure Street-94087.jpg"
+
 - addr: "38915 Sea Grass Pl, Newwark 94560"
   description: "3 beds 3.5 baths"
-  state: listing
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/38915 Sea Grass Pl-94560.jpg"
-  url: https://www.redfin.com/CA/Newark/38915-Sea-Grass-Pl-94560/home/112885664
 
 - addr: "40942 Camero Pl, Fremont 94539"
   description: "4 beds 2 baths"
