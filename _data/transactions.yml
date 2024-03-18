@@ -1,13 +1,13 @@
 - addr: "255 S Rengstorff Avenue #45, Mountain View 94040"
   description: "2 beds 3 baths"
-  state: active
+  state: listing
   represent: seller
   image: "/assets/transactions-cover/255 S Rengstorff Avenue-45-94040.jpg"
   url: https://www.redfin.com/CA/Mountain-View/255-S-Rengstorff-Ave-94040/unit-45/home/616926
 
 - addr: "700 Baltic Circle #734, Redwood City 94065"
   description: "2 beds 3 baths"
-  state: active
+  state: listing
   represent: seller
   image: "/assets/transactions-cover/700 Baltic Circle-734-94065.jpg"
   url: https://www.redfin.com/CA/Redwood-City/700-Baltic-Cir-94065/unit-734/home/2054659
