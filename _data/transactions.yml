@@ -1,3 +1,245 @@
+- addr: "10723 Farallone Drive, Cupertino, CA"
+  description: "3 beds 2 baths"
+  state: listing
+  represent: seller
+  image: "/assets/transactions-cover/ML82050263.jpg"
+
+- addr: "2199 Fordham Drive, Santa Clara, CA"
+  description: "4 beds 3 baths"
+  state: listing
+  represent: seller
+  image: "/assets/transactions-cover/ML82046274.jpg"
+  url: https://www.redfin.com/CA/Santa-Clara/2199-Fordham-Dr-95051/home/1723316
+
+- addr: "1625 Delano Street, #23, Milpitas, CA"
+  description: "3 beds 2.5 baths"
+  state: pending
+  represent: seller
+  image: "/assets/transactions-cover/ML82034409.jpg"
+  url: https://www.redfin.com/CA/Milpitas/1625-Delano-St-95035/unit-23/home/168866968
+
+- addr: "769 E Evelyn Avenue, Sunnyvale, CA"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML82041883.jpg"
+
+- addr: "4074 Yellowstone Drive, San Jose, CA"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82038153.jpg"
+
+- addr: "1279 Milkweed Street, Milpitas, CA"
+  description: "4 beds 3.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML82032909.jpg"
+
+- addr: "7050 Rainbow Drive, #4, San Jose, CA"
+  description: "3 beds 1.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML82032750.jpg"
+
+- addr: "3863 Milton Terrace, Fremont, CA"
+  description: "2 beds 2 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML82030464.jpg"
+
+- addr: "541 Holthouse Terrace, Sunnyvale, CA"
+  description: "4 beds 3.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML82030230.jpg"
+
+- addr: "326 Springpark Circle, San Jose, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82027974.jpg"
+
+- addr: "6247 Hokett Way, San Jose, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82027230.jpg"
+
+- addr: "1072 Syracuse Drive, Sunnyvale, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82024723.jpg"
+
+- addr: "1115 Fairlands Court, Campbell, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82020023.jpg"
+
+- addr: "2281 Starbright Drive, San Jose, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82018510.jpg"
+
+- addr: "4957 New Compton Court, San Jose, CA"
+  description: "5 beds 3 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82014691.jpg"
+
+- addr: "1861 Limetree Lane, Mountain View, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82012441.jpg"
+
+- addr: "9246 Enterprise Drive, Newark, CA"
+  description: "5 beds 4.5 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82011889.jpg"
+
+- addr: "1869 Middleton Avenue, Los Altos, CA"
+  description: "5 beds 3 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82010666.jpg"
+
+- addr: "509 Chinook Lane, San Jose, CA"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82003659.jpg"
+
+- addr: "4260 Ballatore Drive, San Jose, CA"
+  description: "3 beds 3 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML81998467.jpg"
+
+- addr: "977 Asilomar Terrace, #4, Sunnyvale, CA"
+  description: "3 beds 3.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML81997860.jpg"
+
+- addr: "1909 Baywood Square, San Jose, CA"
+  description: "3 beds 1.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML81997355.jpg"
+
+- addr: "2457 Mosswood Lane, Santa Clara, CA"
+  description: "3 beds 1.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML81996341.jpg"
+
+- addr: "687 Conway Road, Sunnyvale, CA"
+  description: "5 beds 2.5 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81993029.jpg"
+
+- addr: "1745 Lee Way, Milpitas, CA"
+  description: "3 beds 3 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML81992117.jpg"
+
+- addr: "1393 Merrywood Drive, San Jose, CA"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81991991.jpg"
+
+- addr: "1759 Queenstown Drive, San Jose, CA"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81991801.jpg"
+
+- addr: "135 Ivory Palm Terrace, Sunnyvale, CA"
+  description: "2 beds 2.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML81991269.jpg"
+
+- addr: "985 Asilomar Terrace, #1, Sunnyvale, CA"
+  description: "3 beds 3.5 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81990446.jpg"
+
+- addr: "1407 Franchere Place, Sunnyvale, CA"
+  description: "5 beds 3 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81985265.jpg"
+
+- addr: "1482 Stubbins Way, San Jose, CA"
+  description: "3 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81984605.jpg"
+
+- addr: "674 Azule Avenue, San Jose, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81981446.jpg"
+
+- addr: "1217 Sierra Village Way, San Jose, CA"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML81980650.jpg"
+
+- addr: "5390 Larch Grove Place, San Jose, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81979935.jpg"
+
+- addr: "3557 Amber Drive, San Jose, CA"
+  description: "5 beds 3 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81978998.jpg"
+
+- addr: "1677 Francolin Terrace, Sunnyvale, CA"
+  description: "4 beds 3 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81978992.jpg"
+
+- addr: "2717 Estella Drive, Santa Clara, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: seller
+  image: "/assets/transactions-cover/ML81978788.jpg"
+
+- addr: "7123 Galli Drive, San Jose, CA"
+  description: "4 beds 2.5 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81977140.jpg"
+
+- addr: "2905 Rubino Circle, San Jose, CA"
+  description: "3 beds 2.5 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81973466.jpg"
+
+- addr: "1008 San Pierre Way, Mountain View, CA"
+  description: "3 beds 3 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML81967110.jpg"
+
 - addr: "5357 Rancho Del Sur Dr, Fremont 94555"
   description: "4 beds 2.5 baths"
   state: sold
@@ -139,7 +381,7 @@
 
 - addr: "364 N Murphy Ave, Sunnyvale 94085"
   description: "4 beds 3 baths"
-  state: seller
+  state: sold
   represent: buyer
   image: "/assets/transactions-cover/364 N Murphy Ave-94085.jpeg"
 
