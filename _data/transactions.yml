@@ -1,19 +1,19 @@
-- addr: "10723 Farallone Drive, Cupertino, CA"
-  description: "3 beds 2 baths"
+- addr: "3539 Piazza Common, Fremont, CA"
+  description: "3 beds 3.5 baths"
   state: listing
   represent: seller
-  image: "/assets/transactions-cover/ML82050263.jpg"
+  image: "/assets/transactions-cover/ML82062992.jpg"
+  url: https://www.redfin.com/CA/Fremont/3539-Piazza-Cmn-94538/home/168829504
 
-- addr: "2199 Fordham Drive, Santa Clara, CA"
-  description: "4 beds 3 baths"
-  state: listing
-  represent: seller
-  image: "/assets/transactions-cover/ML82046274.jpg"
-  url: https://www.redfin.com/CA/Santa-Clara/2199-Fordham-Dr-95051/home/1723316
+- addr: "4517 Vanderbilt Drive, San Jose, CA"
+  description: "4 beds 2 baths"
+  state: sold
+  represent: buyer
+  image: "/assets/transactions-cover/ML82061881.jpg"
 
 - addr: "1625 Delano Street, #23, Milpitas, CA"
   description: "3 beds 2.5 baths"
-  state: pending
+  state: sold
   represent: seller
   image: "/assets/transactions-cover/ML82034409.jpg"
   url: https://www.redfin.com/CA/Milpitas/1625-Delano-St-95035/unit-23/home/168866968
